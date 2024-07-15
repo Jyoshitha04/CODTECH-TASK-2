@@ -58,6 +58,10 @@ Fit the model to the training data, where you'll provide your selected predictor
 Evaluate the model using metrics like mean squared error (MSE) or R-squared to understand how well it predicts prices based on the selected features.
 Visualize the predicted prices against the actual prices to see how closely they align.
 
+##OutComes
+
+![Predicted VS Actual Price](https://github.com/user-attachments/assets/b43d385c-8aea-4825-8592-acb9ce2197ef)
+
 ## Observations / Insights
 
 ### Model Performance
