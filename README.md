@@ -15,7 +15,9 @@
 **Company:** CODTECH IT SOLUTIONS  
 **Domain:** Data Scientist  
 **ID:** CT6DS695
+
 **Mentor:** Muzammil Ahmed
+
 **Duration:** June, 2024 - August, 2024
 
 ### Project
